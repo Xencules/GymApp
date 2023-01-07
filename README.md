@@ -1,4 +1,10 @@
 # gymapp 
+
+Collaborated on a school project in a team of 3 students. The GymApp is a cross platform mobile application, where a user can keep a diary of their training sessions at the gym made with React Native.
+
+Application has screens to brose throug a calendar view to see a history of workouts, screen to add a new workout, screen to browse through/add/delete workouts from the database.
+
+Features:
 A React Native mobile app by Group TripleA
 
 In order to run this app you need to make the following installations:
@@ -17,4 +23,3 @@ In order to run this app you need to make the following installations:
 13. npm install --save react-native-indicators
 14. npm install react-native-element-dropdown --save
 
-Moro!!!
